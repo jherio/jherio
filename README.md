@@ -1,7 +1,7 @@
 ### Hi there, I’m James (@jherio) 👋
 
 - 👀 I’m interested in Atlassian tools, cloud architecture, and automation.
-- 🌱 I’m currently learning frontend web development and AWS.
+- 🌱 I’m currently learning vue, python and k8s.
 - 💞️ I’m looking to collaborate on Jira and Confluence projects, as well as custom automation scripts.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a fan of collectible action figures and enjoy adding to my collection!
